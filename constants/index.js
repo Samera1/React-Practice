@@ -2,12 +2,12 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'El espacio',
+    title: 'El Espacio',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'La Cuspide',
+    title: 'La Montaña',
   },
   {
     id: 'world-3',
@@ -27,42 +27,42 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Encuentra un mundo que se adapte a ti y al que quieras entrar',
+  'Entra al mundo leyendo Basmalah para estar seguro',
+  'No hay necesidad de andarse con rodeos, solo quédese en el simulador y diviértase',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Un nuevo mundo',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Tenemos la última actualización con un nuevo mundo para que pruebes',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Mas realista',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'En la última actualización, el mundo es más realista que nunca',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'El lanzamiento del Metaverso',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: '7 consejos para dominar fácilmente la locura del Metaverso',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Con una plataforma puedes explorar el mundo entero virtualmente',
     subtitle:
         'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
   },
